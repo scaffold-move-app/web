@@ -49,20 +49,23 @@
 	transform: scale(1.1); 
 	}
 
+	@media (max-width: 800px) {
+		.title {
+		font-size: 3em;
+		}
+	}
 
+	@media (max-width: 600px) {
+		.title {
+		font-size: 2em;
+		}
+	}
 
-	/* a {
-		display: flex;
-		align-items: center;
-		justify-content: center;
-		width: 2em;
-		height: 2em;
-	} */
+	@media (max-width: 400px) {
+		.title {
+		font-size: 1.5em;
+		}
+	}
 
-	/* .corner img {
-		width: 2em;
-		height: 2em;
-		object-fit: contain;
-	} */
 
 </style>

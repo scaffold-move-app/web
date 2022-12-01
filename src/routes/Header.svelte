@@ -31,6 +31,8 @@
 		display: flex;
 		width: 100%;
 		height: 100%;
+		align-items: right;
+		justify-content: right;
 	}
 
 	.corner img {
