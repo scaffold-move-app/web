@@ -59,11 +59,19 @@
 		.title {
 		font-size: 2em;
 		}
+
+		.paragraph {
+		width:80%;
+		}
 	}
 
 	@media (max-width: 400px) {
 		.title {
 		font-size: 1.5em;
+		}
+
+		.paragraph {
+		width:85%;
 		}
 	}
 
