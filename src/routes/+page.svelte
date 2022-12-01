@@ -4,8 +4,8 @@
 </script>
 
 <svelte:head>
-	<title>Home</title>
-	<meta name="description" content="Svelte demo app" />
+	<title>scaffold-move</title>
+	<meta name="description" content="The way to get started building Move apps for all varieties of Move" />
 </svelte:head>
 
 <section>
