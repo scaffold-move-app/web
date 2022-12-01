@@ -21,6 +21,7 @@
 		flex-direction: column; 
 		min-height: 100vh;
 		background-image: url('$lib/images/scaffold-move.png');
+		box-shadow: inset 0 0 0 1000px rgba(12, 20, 27, 0.6);
 	}
 
 	main {
